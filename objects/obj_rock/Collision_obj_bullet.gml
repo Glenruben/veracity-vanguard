@@ -155,10 +155,10 @@ if(l1F76D6F9_0)
 	/// @DnDHash : 3F70E690
 	/// @DnDApplyTo : {obj_game}
 	/// @DnDParent : 1F76D6F9
-	/// @DnDArgument : "expr" "5"
+	/// @DnDArgument : "expr" "7"
 	/// @DnDArgument : "var" "powerup_countdown"
 	with(obj_game) {
-	powerup_countdown = 5;
+	powerup_countdown = 7;
 	
 	}
 }

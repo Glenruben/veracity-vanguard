@@ -7,6 +7,6 @@ points = 0;
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 575200CB
-/// @DnDArgument : "expr" "3"
+/// @DnDArgument : "expr" "5"
 /// @DnDArgument : "var" "powerup_countdown"
-powerup_countdown = 3;
+powerup_countdown = 5;
