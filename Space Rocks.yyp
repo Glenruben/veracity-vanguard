@@ -27,7 +27,9 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
   ],
-  "IncludedFiles": [],
+  "IncludedFiles": [
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"Space_Rocks_Powerups_Sprites.zip","CopyToMask":-1,"filePath":"datafiles",},
+  ],
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
@@ -35,6 +37,7 @@
   },
   "resources": [
     {"id":{"name":"spr_button_blank","path":"sprites/spr_button_blank/spr_button_blank.yy",},},
+    {"id":{"name":"spr_powerup_ghost","path":"sprites/spr_powerup_ghost/spr_powerup_ghost.yy",},},
     {"id":{"name":"obj_button_quit","path":"objects/obj_button_quit/obj_button_quit.yy",},},
     {"id":{"name":"fnt_menu","path":"fonts/fnt_menu/fnt_menu.yy",},},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
@@ -43,6 +46,7 @@
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"spr_bullet","path":"sprites/spr_bullet/spr_bullet.yy",},},
     {"id":{"name":"obj_button_play","path":"objects/obj_button_play/obj_button_play.yy",},},
+    {"id":{"name":"obj_powerup_spread","path":"objects/obj_powerup_spread/obj_powerup_spread.yy",},},
     {"id":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},},
     {"id":{"name":"obj_bullet","path":"objects/obj_bullet/obj_bullet.yy",},},
     {"id":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},},
@@ -50,6 +54,7 @@
     {"id":{"name":"spr_rock_small","path":"sprites/spr_rock_small/spr_rock_small.yy",},},
     {"id":{"name":"logo","path":"sprites/logo/logo.yy",},},
     {"id":{"name":"obj_button_help","path":"objects/obj_button_help/obj_button_help.yy",},},
+    {"id":{"name":"spr_powerup_spread","path":"sprites/spr_powerup_spread/spr_powerup_spread.yy",},},
     {"id":{"name":"obj_rock","path":"objects/obj_rock/obj_rock.yy",},},
     {"id":{"name":"fnt_score","path":"fonts/fnt_score/fnt_score.yy",},},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
